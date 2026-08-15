@@ -1,0 +1,17 @@
+{
+  "name": "VED PHARMACY",
+  "short_name": "VED PHARMACY",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0b6e4f",
+  "description": "VED PHARMACY inventory, purchase, billing and sales management",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
